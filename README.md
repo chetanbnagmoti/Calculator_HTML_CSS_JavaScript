@@ -18,7 +18,8 @@ Step 4:-Go to Live Server:-
 
 Then Project is run like this :-
 
-![1](https://user-images.githubusercontent.com/119286565/221466904-0de47433-aa07-470d-afb3-d44d27c36f48.png)
+![image](https://user-images.githubusercontent.com/119286565/221467053-7d01c16d-d17a-4158-8dc1-59d9f805bbb5.png)
+
 
 
 
